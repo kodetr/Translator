@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Translate Offline</string>
+    <string name="translated_text_hint">Translated text</string>
+    <string name="downloaded_models_label">Language : %1$s</string>
+    <string name="translate_progress">Translating...</string>
+    <string name="delete_model">Delete Language</string>
+    <string name="download_model">Download Language</string>
+    <string name="unknown_error">Unknown error occurred.</string>
+
+
+    <string name="help_text">Enter text and press button</string>
+    <string name="text_id_language">Identify most likely language</string>
+    <string name="text_find_all_possibilities">Show all possibilities</string>
+    <string name="language_id_error">Failed to identify language</string>
+    <string name="available_language">Available Language</string>
+    <string name="enter_input_text">Tap to enter text</string>
+    <string name="dialog_voice">Say it now</string>
+
+
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+    <string name="ok">OK</string>
+
+    <!--    iklan-->
+    <string name="IDDAPP">ca-app-pub-1284928695392329~2093426083</string>
+    <string name="binner">ca-app-pub-1284928695392329/5865150135</string>
+    <string name="interstisial">ca-app-pub-1284928695392329/8275691059</string>
+    <string name="reward">ca-app-pub-1284928695392329/1382979645</string>
+    <string name="versi">V1.0</string>
+</resources>

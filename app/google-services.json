@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277015426960",
+    "firebase_url": "https://ml-lite.firebaseio.com",
+    "project_id": "ml-lite",
+    "storage_bucket": "ml-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277015426960:android:228af672cfb53676d96515",
+        "android_client_info": {
+          "package_name": "com.kodetr.translateoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277015426960-gmi5lsd3dklfavg7en6n7s254qm2n1g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5YStDO0a4fscXQLFvRKFGp2lWKEJd82c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277015426960-gmi5lsd3dklfavg7en6n7s254qm2n1g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
